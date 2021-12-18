@@ -1,0 +1,8 @@
+{
+  "name": "fcm-expo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "expo-fcm-octo-barnacle",
+  "author": ".",
+  "license": "MIT"
+}
