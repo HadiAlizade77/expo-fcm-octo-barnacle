@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "expo-fcm-octo-barnacle",
   "author": ".",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^10.0.1"
+  }
 }
